@@ -1,4 +1,6 @@
-# NC Quantum Computing Hackathon Summer 2020
+# Qiskit Community Summer Jam 2020 - North Carolina
+
+
 **Team Name: NCSSM Unicorns**
 
 **Team Members: Dhruv Yalamanchi, Daniel Jin, Joseph Campbell, Shardool Deshpande, Akshat Kumar**
